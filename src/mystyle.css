@@ -1,0 +1,22 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+}
+.demo{
+    text-align: center;
+    font-size: 60px;
+    background-color: yellow;
+}
+.custom-carousel{
+    height: 95vh;
+
+}
+.card-img-top{
+    height: 250px;
+}
+.my_icons{
+    color:purple;
+}
+.card-title{
+color:rgb(255, 87, 51 );
+font-weight: bold;
+}
